@@ -1,0 +1,23 @@
+/* Make the card titles and text responsive */
+.card-title {
+  font-size: 1.25rem;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+/* Adjust padding and margins for smaller devices */
+@media (max-width: 576px) {
+  .form-label {
+    font-size: 0.9rem;
+  }
+  .form-control {
+    font-size: 0.85rem;
+  }
+  .btn {
+    font-size: 0.85rem;
+  }
+}
+
+

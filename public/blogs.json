@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Node.js",
+    "description": "Node.js allows you to build scalable server-side applications. Here's how to get started with it.",
+    "date": "2024-12-01 10:30 AM"
+  },
+  {
+    "id": 2,
+    "title": "Understanding Express.js",
+    "description": "Express.js is a web application framework for Node.js. Learn how to create web servers with Express.",
+    "date": "2024-12-02 11:00 AM"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Features",
+    "description": "ES6 introduces new features like arrow functions, template literals, and classes in JavaScript.",
+    "date": "2024-12-03 1:15 PM"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to MongoDB",
+    "description": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents. Learn how to get started.",
+    "date": "2024-12-04 2:30 PM"
+  },
+  {
+    "id": 5,
+    "title": "Building APIs with Express and MongoDB",
+    "description": "Learn how to build powerful RESTful APIs using Express.js and MongoDB.",
+    "date": "2024-12-05 3:00 PM"
+  },
+  {
+    "id": 6,
+    "title": "Understanding WebSockets",
+    "description": "WebSockets allow for two-way communication between the client and server. Learn how to use WebSockets in your web apps.",
+    "date": "2024-12-06 4:45 PM"
+  },
+  {
+    "id": 7,
+    "title": "Introduction to React.js",
+    "description": "React.js is a JavaScript library for building user interfaces. Learn the basics of React and how to get started.",
+    "date": "2024-12-07 5:15 PM"
+  },
+  {
+    "id": 8,
+    "title": "Building a Simple Blog with React",
+    "description": "Learn how to build a simple blog app using React.js. We'll cover routing, components, and state management.",
+    "date": "2024-12-08 6:00 PM"
+  },
+  {
+    "id": 9,
+    "title": "Understanding RESTful APIs",
+    "description": "RESTful APIs are essential in web development. Learn how to create and consume REST APIs.",
+    "date": "2024-12-09 7:00 PM"
+  },
+  {
+    "id": 10,
+    "title": "Getting Started with Node.js",
+    "description": "Node.js allows you to build scalable server-side applications. Here's how to get started with it.",
+    "date": "2024-12-10 5:45 PM"
+  },
+  {
+    "id": 11,
+    "title": "Why Learn TypeScript?",
+    "description": "TypeScript is a superset of JavaScript that adds type safety. Learn why you should start using TypeScript.",
+    "date": "2024-12-11 8:30 AM"
+  },
+  {
+    "id": 12,
+    "title": "Web Development Tools You Should Know",
+    "description": "There are many tools that can make web development easier. Here are the must-have tools for every developer.",
+    "date": "2024-12-12 9:00 AM"
+  },
+  {
+    "id": 13,
+    "title": "Understanding Git and GitHub",
+    "description": "Git is a version control system, and GitHub is a platform for hosting your code. Learn the basics of Git and GitHub.",
+    "date": "2024-12-13 10:15 AM"
+  },
+  {
+    "id": 14,
+    "title": "Exploring MongoDB Aggregation",
+    "description": "MongoDB Aggregation framework allows you to process data in complex ways. Learn how to use it for powerful queries.",
+    "date": "2024-12-14 11:30 AM"
+  },
+  {
+    "id": 15,
+    "title": "Mastering JavaScript Promises",
+    "description": "Promises allow you to handle asynchronous operations in JavaScript. Learn how to master promises in this post.",
+    "date": "2024-12-15 12:00 PM"
+  },
+  {
+    "id": 16,
+    "title": "Understanding the MVC Pattern",
+    "description": "MVC is a design pattern used to separate concerns in your application. Learn how it improves the organization of your code.",
+    "date": "2024-12-16 1:45 PM"
+  },
+  {
+    "id": 17,
+    "title": "Getting Started with Vue.js",
+    "description": "Vue.js is a progressive JavaScript framework for building UIs. Learn how to get started with Vue.js.",
+    "date": "2024-12-17 2:00 PM"
+  },
+  {
+    "id": 18,
+    "title": "Building a RESTful API with Express",
+    "description": "Learn how to build a RESTful API with Express.js and Node.js.",
+    "date": "2024-12-18 3:15 PM"
+  },
+  {
+    "id": 19,
+    "title": "Introduction to Docker for Developers",
+    "description": "Docker is a tool that allows you to package your applications into containers. Learn how it can improve your workflow.",
+    "date": "2024-12-19 4:00 PM"
+  },
+  {
+    "id": 20,
+    "title": "Creating a Portfolio Website with React",
+    "description": "Learn how to create your own portfolio website using React.js. We'll cover routing, components, and styling.",
+    "date": "2024-12-20 5:30 PM"
+  },
+  {
+    "id": 21,
+    "title": "Building a Chat Application with React and Firebase",
+    "description": "Learn how to build a real-time chat application using React.js and Firebase.",
+    "date": "2024-12-21 6:00 PM"
+  },
+  {
+    "id": 22,
+    "title": "Web Scraping with Python and BeautifulSoup",
+    "description": "Learn how to extract data from websites using Python and the BeautifulSoup library.",
+    "date": "2024-12-22 7:30 PM"
+  },
+  {
+    "id": 23,
+    "title": "Creating a RESTful API with Node.js",
+    "description": "Learn how to create a RESTful API with Node.js and Express.js for scalable backend solutions.",
+    "date": "2024-12-23 8:00 PM"
+  },
+  {
+    "id": 24,
+    "title": "Understanding WebSockets",
+    "description": "WebSockets allow for real-time communication between client and server. Learn how to use WebSockets in your web apps.",
+    "date": "2024-12-24 9:00 AM"
+  },
+  {
+    "id": 25,
+    "title": "How to Use Git for Version Control",
+    "description": "Git is an essential tool for version control. Learn how to use Git effectively for your projects.",
+    "date": "2024-12-25 10:30 AM"
+  },
+  {
+    "id": 26,
+    "title": "The Basics of Web Development",
+    "description": "Learn the fundamentals of web development including HTML, CSS, and JavaScript.",
+    "date": "2024-12-26 11:00 AM"
+  },
+  {
+    "id": 27,
+    "title": "Exploring Serverless Architecture",
+    "description": "Serverless architecture allows developers to build and run applications without managing servers. Learn how it works.",
+    "date": "2024-12-27 12:30 PM"
+  },
+  {
+    "id": 28,
+    "title": "Intro to Functional Programming in JavaScript",
+    "description": "Functional programming is a programming paradigm. Learn the basics of functional programming in JavaScript.",
+    "date": "2024-12-28 1:15 PM"
+  },
+  {
+    "id": 29,
+    "title": "Building a Task Manager with Node.js",
+    "description": "Learn how to build a task manager application using Node.js and MongoDB.",
+    "date": "2024-12-29 2:45 PM"
+  },
+  {
+    "id": 30,
+    "title": "Creating a Weather Application with React",
+    "description": "Build a weather application using React.js and an external API to fetch weather data.",
+    "date": "2024-12-30 3:15 PM"
+  }
+]
